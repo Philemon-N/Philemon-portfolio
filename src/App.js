@@ -293,12 +293,12 @@ export default function Portfolio() {
             <div className="avatar-gradient"></div>
             <div className="avatar">
               <img
-                src="/profile.png"
+                src={`${process.env.PUBLIC_URL}/profile.png`}
                 alt="Philemon"
                 className="avatar-image"
                 onError={(e) => {
                   e.target.onerror = null;
-                  e.target.src = "/profile.png";
+                  e.target.src = `${process.env.PUBLIC_URL}/profile.png`;
                 }}
               />
             </div>
