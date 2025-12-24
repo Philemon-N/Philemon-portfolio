@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Philemon-portfolio/static/css/main.b56e9a29.css",
-    "main.js": "/Philemon-portfolio/static/js/main.f1411b09.js",
+    "main.js": "/Philemon-portfolio/static/js/main.6f8eac89.js",
     "static/js/488.1dde5848.chunk.js": "/Philemon-portfolio/static/js/488.1dde5848.chunk.js",
     "index.html": "/Philemon-portfolio/index.html",
     "main.b56e9a29.css.map": "/Philemon-portfolio/static/css/main.b56e9a29.css.map",
-    "main.f1411b09.js.map": "/Philemon-portfolio/static/js/main.f1411b09.js.map",
+    "main.6f8eac89.js.map": "/Philemon-portfolio/static/js/main.6f8eac89.js.map",
     "488.1dde5848.chunk.js.map": "/Philemon-portfolio/static/js/488.1dde5848.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b56e9a29.css",
-    "static/js/main.f1411b09.js"
+    "static/js/main.6f8eac89.js"
   ]
 }
